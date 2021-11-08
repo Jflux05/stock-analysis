@@ -1,5 +1,5 @@
 # stock-analysis
-Analyzing Sotcks with VBA Macros
+Analyzing Stocks with VBA 
 
 ## Overview of Project
 
